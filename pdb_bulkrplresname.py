@@ -19,6 +19,7 @@
 # Modifications, based on pdb_rplresname:
 # - first input argument is changed; takes one 1-3 char resname
 # - all resnames in the pdb file will be changed to the specified resname.
+# - docstring changed
 # - author and email are removed from the module docstring.
 
 """
